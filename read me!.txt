@@ -1,0 +1,22 @@
+ ____________________________________________________________________
+' name: napster.bas
+' author: amaf
+' released on: 7/23/00
+' url: www.envy.nu/amaf
+' email: amaf@email.com
+' ___________________________________________________________________
+'
+' this module was created for napster api programming, not winsock.
+' it is the fix to the ocx file i released a while ago, which is 
+' included in the zip file. with this module you can create progs
+' for napster, as people created progs for aol. i included some ex
+' of how to work the punt correctly, so you don't recieve a lag as
+' the punter works. the code automatically closes the main window
+' of the im. it also shows how to finger the user, using napster's
+' finger option, get connection status, punt users, send a normal
+' instant message, close napster, connect to napster, disconnect
+' from napster, get error text, get normal text, kill error msgs,
+' hide napster, show napster, kill toolbar, run menu item's etc.
+' everyone who uses this has to promise to release a fixed ver.
+' of this code, even if you added one or two routines. and atleast
+' give me credit for my own work. 
